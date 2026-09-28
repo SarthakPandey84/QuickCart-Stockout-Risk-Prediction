@@ -1,0 +1,20 @@
+# Ignore zip files
+*.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
